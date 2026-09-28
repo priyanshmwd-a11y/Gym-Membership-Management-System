@@ -37,3 +37,39 @@ python3 tests/test_gym.py
 `payments.py` - payment module  
 `members.json` - stored data  
 `tests/` - tests
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Screenshots
+
+### Main Menu
+![Main Menu](screenshots/01-main-menu.png)
+
+### Member Added
+![Member Added](screenshots/02-member-added.png)
+
+### Member Details
+![Member Details](screenshots/03-member-details.png)
+
+### Membership Assigned
+![Membership Assigned](screenshots/04-membership-assigned.png)
+
+### Payment Recorded
+![Payment Recorded](screenshots/05-payment-recorded.png)
+
+### Reports & Analytics
+![Reports](screenshots/06-reports.png)
+
+### Revenue Summary
+![Revenue](screenshots/07-revenue.png)
+
